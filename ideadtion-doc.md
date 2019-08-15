@@ -10,6 +10,6 @@ I'll be using these main technologies:
 - JQuery
 - Some 3rd party plugins. 
 
-## Hosting detatils <optional>
+## Hosting detatils [optional]
 
-## Other details <optional>
+## Other details [optional]
